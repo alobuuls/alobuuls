@@ -37,19 +37,22 @@ const alondra = {
 
 ### 🚀 Featured Projects
 
+🚀 Featured Projects
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🔔 Free Alerts</h3>
       <p>Lightweight JS library for toasts, alerts & confirmations. Clean API, zero dependencies, drop-in ready.</p>
       <p><sub><strong>JavaScript · npm</strong></sub></p>
-      <a href="https://github.com/alobuuls/free-alerts"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      <a href="https://www.npmjs.com/package/free-alerts"><img src="https://img.shields.io/badge/View_npm-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
+      <a href="https://alobuuls.github.io/free-alerts/demo/prod/"><img src="https://img.shields.io/badge/View_Demo-38BDF8?style=flat-square&logo=googlechrome&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>⌨️ Typing Speed Test</h3>
       <p>Measures WPM, accuracy, and performance in real time. Instant feedback, smooth UX.</p>
       <p><sub><strong>HTML · CSS · JavaScript</strong></sub></p>
       <a href="https://github.com/alobuuls/typing-speed-test"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      <a href="https://alobuuls.github.io/typing-speed-test/"><img src="https://img.shields.io/badge/View_Demo-38BDF8?style=flat-square&logo=googlechrome&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
@@ -58,20 +61,14 @@ const alondra = {
       <p>Image explorer with pagination & infinite scroll. Built with RxJS, HTTP interceptors, and clean architecture.</p>
       <p><sub><strong>Angular · TypeScript · RxJS</strong></sub></p>
       <a href="https://github.com/alobuuls/unsplash-angular-gallery"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      <a href="https://alobuuls.github.io/unsplash-angular-gallery/"><img src="https://img.shields.io/badge/View_Demo-38BDF8?style=flat-square&logo=googlechrome&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>📋 Angular Kanban Board</h3>
       <p>Drag & drop Kanban with Angular CDK. Full task and column reordering, responsive layout.</p>
       <p><sub><strong>Angular · TypeScript · Angular CDK</strong></sub></p>
       <a href="https://github.com/alobuuls/angular-kanban-drag-drop"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🎨 Landing Page</h3>
-      <p>Modern, responsive landing for a home products brand — product showcase, contact section, and international reach.</p>
-      <p><sub><strong>HTML · CSS · JavaScript</strong></sub></p>
-      <a href="https://github.com/alobuuls/landing-page"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      <a href="https://alobuuls.github.io/angular-kanban-drag-drop/"><img src="https://img.shields.io/badge/View_Demo-38BDF8?style=flat-square&logo=googlechrome&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -80,53 +77,57 @@ const alondra = {
 
 ### 📈 Developer Journey
 
-<table>
-  <tr>
-    <td align="center"><strong>🌱 Foundations</strong></td>
-    <td align="center">→</td>
-    <td align="center"><strong>⚙️ Craft</strong></td>
-    <td align="center">→</td>
-    <td align="center"><strong>🏗️ Engineering</strong></td>
-    <td align="center">→</td>
-    <td align="center"><strong>🚀 Shipping</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>HTML · CSS · JS</sub></td>
-    <td></td>
-    <td align="center"><sub>TypeScript · Angular · RxJS</sub></td>
-    <td></td>
-    <td align="center"><sub>Architecture · Testing · Git</sub></td>
-    <td></td>
-    <td align="center"><sub>Build · Document · Share</sub></td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>🌱 Foundations</strong></td>
+      <td align="center">→</td>
+      <td align="center"><strong>⚙️ Craft</strong></td>
+      <td align="center">→</td>
+      <td align="center"><strong>🏗️ Engineering</strong></td>
+      <td align="center">→</td>
+      <td align="center"><strong>🚀 Shipping</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><sub>HTML · CSS · JS</sub></td>
+      <td></td>
+      <td align="center"><sub>TypeScript · Angular · RxJS</sub></td>
+      <td></td>
+      <td align="center"><sub>Architecture · Testing · Git</sub></td>
+      <td></td>
+      <td align="center"><sub>Build · Document · Share</sub></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 📖 Currently Exploring
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h4>🅰️ Frontend</h4>
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-    </td>
-    <td width="33%" align="center">
-      <h4>🏗️ Engineering</h4>
-      <img src="https://img.shields.io/badge/Architecture-38BDF8?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Testing-22C55E?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Performance-F59E0B?style=flat-square&logoColor=white" />
-    </td>
-    <td width="33%" align="center">
-      <h4>🔧 Tooling</h4>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <h4>🅰️ Frontend</h4>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+      </td>
+      <td width="33%" align="center">
+        <h4>🏗️ Engineering</h4>
+        <img src="https://img.shields.io/badge/Architecture-38BDF8?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Testing-22C55E?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Performance-F59E0B?style=flat-square&logoColor=white" />
+      </td>
+      <td width="33%" align="center">
+        <h4>🔧 Tooling</h4>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
